@@ -35,12 +35,6 @@ This project implements a **Smart Automated Washing Machine** using a **Finite S
 
 ---
 
-### 📂 File Structure
-- `automatic_washing_machine.v` → Main FSM Verilog module  
-- `new_test.v` → Testbench for simulation  
-- `fsm_diagram.png` → State diagram for washing machine  
-
----
 
 ### ▶️ Simulation
 - Testbench initializes inputs and simulates different states.  
